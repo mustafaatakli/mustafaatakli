@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Hakkımda
+## 🙋‍♂️ Hakkımda
 
 - 🎓 Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim    
 - 🧠 Veri bilimi, yapay zeka ve bilgisayarlı görü alanlarına büyük ilgi duyuyor, Python, TensorFlow gibi araçlarla projeler üzerinde çalışıyorum.
