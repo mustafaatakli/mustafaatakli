@@ -11,7 +11,7 @@
 ## 🧠 Hakkımda
 
 - 🎓 Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim    
-- 💡 Yapay zeka, görüntü işleme ve faydalı araçlar geliştirme konularına ilgiliyim  
+- 🧠 Veri bilimi, yapay zeka ve bilgisayarlı görü alanlarına büyük ilgi duyuyor, Python, TensorFlow gibi araçlarla projeler üzerinde çalışıyorum.
 - 💻 Deneyim sahibi olduğum teknolojiler: `Python`, `C#`, `ASP.NET Core`, `OpenCV`, `Tkinter`  
 - 🌱 Şu anda `Derin Öğrenme` ve `Mobil Uygulama Geliştirme` konularını öğreniyorum  
 
