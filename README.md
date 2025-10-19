@@ -50,7 +50,7 @@
 
 ## 🌐 Bağlantılarım
 
-[![Portfolio](https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://mustafaatakli.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://mustafaatakli.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-atakl%C4%B1-26592225b/)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=mustafaatakli&color=blueviolet&style=for-the-badge&label=Profil+Görüntülenme)
 
