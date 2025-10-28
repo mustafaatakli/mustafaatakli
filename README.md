@@ -10,10 +10,10 @@
 
 ## 🙋‍♂️ Hakkımda
 
-- 🎓 Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim    
+- 🎓 Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.
 - 🧠 Yapay zeka, makine öğrenmesi ve görüntü işleme teknolojilerine derin bir ilgi duyuyor; özellikle Machine Learning, Deep Learning, Computer Vision ve NLP konularına odaklanıyorum. Python (TensorFlow, Scikit-Learn, OpenCV) ile veri analizi ve model eğitimini kapsayan uçtan uca çözümler geliştiriyorum. Generative AI, LLM ve AI Agents gibi güncel teknolojileri yakından takip ederek alanımda güncel kalmaya özen gösteren bir yazılım geliştiriciyim.
 - 💻 Deneyim sahibi olduğum teknolojiler: `Python`, `C#`, `ASP.NET Core`, `OpenCV`, `Tkinter`  
-- 🌱 Şu anda `Derin Öğrenme` ve `Mobil Uygulama Geliştirme` konularını öğreniyorum  
+- 🌱 Şu anda `Derin Öğrenme` ve `Mobil Uygulama Geliştirme` konularını öğreniyorum.
 
 ---
 
