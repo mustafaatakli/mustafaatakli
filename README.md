@@ -27,13 +27,13 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-🏢 **[İşletme Yönetim Sistemi](https://github.com/mustafaatakli/IsletmeYonetimSistemi)**
-- **Detay:** İşletmelerin yönetim süreçlerini kolaylaştıran bir sistem. Stok takibi, satış ve sipariş yönetimi gibi temel işletme işlevlerini gerçekleştirebilecek bir platform.
+🏢 **[AI-Destekli-Ogrenci-Analiz-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Ogrenci-Analiz-Sistemi)**
+- **Detay:** Bu proje, okullara yönelik tasarlanmış modern bir Yüz Tanıma ve Duygu Analizi Masaüstü Uygulamasıdır. Python tabanlı bu sistem, gelişmiş yapay zeka modellerini kullanarak öğrenci kayıt, tanıma ve duygu analizi süreçlerini otomatikleştirmeyi amaçlamaktadır.
 
-🖐️ **[El Hareketi ile Fare Kontrolü](https://github.com/mustafaatakli/optik_akis_ve_hareket_takibi)**  
-- **Detay:** OpenCV ile geliştirilen, el hareketleriyle fare imlecini kontrol etmeye yarayan uygulama.
+🖐️ **[FinAlert-AI-Entegre-Finans-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Web-Finans-Sistemi)**  
+- **Detay:** Günlük finans piyasalarını takip etmek artık çok kolay! Döviz, altın ve borsa verilerini AI destekli özetlerle e-postanızda alın. Geliştirilmiş tip güvenliği, ölçeklenebilirlik ve sürdürülebilirlik için TypeScript ve React kullanılarak geliştirilmiştir.
 
-🖼️ **[Aygaz-Global_AI_Hub_Goruntu_Isleme_Bitirme_Projesi](https://github.com/mustafaatakli/Aygaz_Goruntu_Isleme_Bitirme_Projesi)**  
+🖼️ **[Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi](https://github.com/mustafaatakli/Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi)**  
 - **Detay:** Bu projede, Animals with Attributes 2 veri seti kullanılarak CNN tabanlı görüntü sınıflandırma modeli geliştirilmiştir. Model, çeşitli veri manipülasyonları (parlaklık değişimi, renk sabitleme) ile test edilerek dayanıklılığı analiz edilmiş, sonuçlar başarı oranlarıyla raporlanmıştır.
 
 ---
