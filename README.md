@@ -28,7 +28,7 @@
 ## 📌 Öne Çıkan Projelerim
 
 🏢 **[AI-Destekli-Ogrenci-Analiz-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Ogrenci-Analiz-Sistemi)**
-- **Detay:** Bu proje, okullara yönelik tasarlanmış modern bir Yüz Tanıma ve Duygu Analizi Masaüstü Uygulamasıdır. Python tabanlı bu sistem, gelişmiş yapay zeka modellerini kullanarak öğrenci kayıt, tanıma ve duygu analizi süreçlerini otomatikleştirmeyi amaçlamaktadır.
+- **Detay:** Bu proje, okullara yönelik tasarlanmış modern bir Yüz Tanıma ve Duygu Analizi Masaüstü Uygulamasıdır. Python tabanlı bu sistem, gelişmiş yapay zeka modellerini((InsightFace, DeepFace, TensorFlow), OpenCV) kullanarak öğrenci kayıt, tanıma ve duygu analizi süreçlerini otomatikleştirmeyi amaçlamaktadır.
 
 🖐️ **[FinAlert-AI-Entegre-Finans-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Web-Finans-Sistemi)**  
 - **Detay:** Günlük finans piyasalarını takip etmek artık çok kolay! Döviz, altın ve borsa verilerini AI destekli özetlerle e-postanızda alın. Geliştirilmiş tip güvenliği, ölçeklenebilirlik ve sürdürülebilirlik için TypeScript ve React kullanılarak geliştirilmiştir.
