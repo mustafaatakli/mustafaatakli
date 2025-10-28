@@ -39,9 +39,11 @@
 ---
 
 ## 📌 Devam Eden Projelerim
+🔬 **[Göğüs Hastalıkları Tahmini Karar Destek Sistemi: Göğüs Hastalıkları Tahmini Karar Destek Sistemi](https://github.com/mustafaatakli/gogus-hastaliklari-tahmini-kds)**
+- **Detay:** Tıbbi görüntüler üzerinden hastalık tahmini yaparak teşhis süreçlerine destek olması hedeflenen bu sistem için, 15 farklı hastalığı kapsayan 85.000 Röntgen/CT görüntüsü ve demografik veriden oluşan bir veri seti ile CNN modeli eğitilmiştir.
 
 🔬 **[Veri Kovanı: Türkçe Yapay Veri Üretimi ve Kurumsal Veri Paylaşım Sistemi (TÜBİTAK 2209-A Proje Başvurusu)](https://github.com/mustafaatakli/veri-kovani)**
-- **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini kapsayan bir platform geliştirmeyi hedeflemektedir.
+- **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini kapsayan bir platform olarak geliştirilmektedir.
 
 🚗 **[Araba Yedek Parça E-Ticaret Sistemi](https://github.com/mustafaatakli/CarSparePartsECommerceSystem)**
 - **Detay:** Bu proje, kullanıcıların araba yedek parçalarını kolayca bulup sipariş verebileceği bir e-ticaret platformudur. Müşteri, mağaza sorumlusu ve yönetici olmak üzere üç farklı kullanıcı rolü bulunmaktadır. Rol tabanlı yetkilendirme ile her kullanıcı kendi görevlerine uygun işlemleri gerçekleştirebilir. Sistem, kapıda ödeme, gerçek zamanlı stok takibi ve sipariş yönetimi gibi temel e-ticaret özelliklerini desteklemektedir. Proje; ASP.NET Core (C#), HTML/CSS/JavaScript ve SQL Server teknolojileriyle geliştirilecektir.
