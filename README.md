@@ -36,6 +36,9 @@
 🖼️ **[Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi](https://github.com/mustafaatakli/Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi)**  
 - **Detay:** Bu projede, Animals with Attributes 2 veri seti kullanılarak CNN tabanlı görüntü sınıflandırma modeli geliştirilmiştir. Model, çeşitli veri manipülasyonları (parlaklık değişimi, renk sabitleme) ile test edilerek dayanıklılığı analiz edilmiş, sonuçlar başarı oranlarıyla raporlanmıştır.
 
+🚗 **[Araba Yedek Parça E-Ticaret Sistemi](https://github.com/mustafaatakli/ParcaMudendisi-AutoPartsSystem)**
+- **Detay:** Bu proje, kullanıcıların araba yedek parçalarını kolayca bulup sipariş verebileceği bir e-ticaret platformudur. Müşteri ve yönetici olmak üzere iki farklı kullanıcı rolü bulunmaktadır. Rol tabanlı yetkilendirme ile her kullanıcı kendi görevlerine uygun işlemleri gerçekleştirebilir. Sistem, kapıda ödeme, gerçek zamanlı stok takibi ve sipariş yönetimi gibi temel e-ticaret özelliklerini desteklemektedir. Proje; backend olarak, ASP.NET Core (C#), frontend olarak React ve SQL Server teknolojileriyle geliştirilmiştir.
+
 ---
 
 ## 📌 Devam Eden Projelerim
@@ -44,9 +47,6 @@
 
 💻 **[Veri Kovanı: Türkçe Yapay Veri Üretimi ve Kurumsal Veri Paylaşım Sistemi (TÜBİTAK 2209-A Proje Başvurusu)](https://github.com/mustafaatakli/veri-kovani)**
 - **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini kapsayan bir platform olarak geliştirilmektedir.
-
-🚗 **[Araba Yedek Parça E-Ticaret Sistemi](https://github.com/mustafaatakli/CarSparePartsECommerceSystem)**
-- **Detay:** Bu proje, kullanıcıların araba yedek parçalarını kolayca bulup sipariş verebileceği bir e-ticaret platformudur. Müşteri, mağaza sorumlusu ve yönetici olmak üzere üç farklı kullanıcı rolü bulunmaktadır. Rol tabanlı yetkilendirme ile her kullanıcı kendi görevlerine uygun işlemleri gerçekleştirebilir. Sistem, kapıda ödeme, gerçek zamanlı stok takibi ve sipariş yönetimi gibi temel e-ticaret özelliklerini desteklemektedir. Proje; backend olarak, ASP.NET Core (C#), frontend olarak React ve SQL Server teknolojileriyle geliştirilecektir.
 
 ---
 
