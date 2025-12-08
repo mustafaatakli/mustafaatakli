@@ -31,7 +31,7 @@
 - **Detay:** Python tabanlı bu masaüstü uygulamada RetinaFace ile yüz tespiti, InsightFace ile tanıma ve DeepFace ile duygu analizi(7 temel duygu) gerçekleştiriyorum. FastAPI ile servis yapısı kurup projeyi bulut ortamına dağıttım. MSSQL veritabanı desteği, otomatik kalite analizi ve Tkinter tabanlı kullanıcı arayüzü, gerçek zamanlı loglar ve sezgisel menü yapısıyla desteklenmiştir.
 
 💵 **[FinAlert-AI-Entegre-Finans-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Web-Finans-Sistemi)**  
-- **Detay:** Günlük finans piyasalarını takip etmek artık çok kolay! Döviz, altın ve borsa verilerini AI destekli özetlerle e-postanızda alın. Geliştirilmiş tip güvenliği, ölçeklenebilirlik ve sürdürülebilirlik için TypeScript ve React kullanılarak geliştirilmiştir.
+- **Detay:** Finalert, altın, döviz ve borsa verilerini güvenilir kaynaklardan alıp yapay zekâ ile özetleyerek, kullanıcıya seçtiği saatte e-posta gönderen bir finans bilgilendirme sistemidir. Ayrıca anlık piyasa analizi, fiyat alarmı, portföy takibi ve kâr-zarar hesaplama gibi özelliklere sahip bir Telegram botu da içermektedir. Sistem, yatırımcılara hızlı ve öz bilgi sunmayı amaçlamaktadır.
 
 🖼️ **[Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi](https://github.com/mustafaatakli/Goruntu-Isleme-Ile-CNN-Model-Performans-Analizi)**  
 - **Detay:** Bu projede, Animals with Attributes 2 veri seti kullanılarak CNN tabanlı görüntü sınıflandırma modeli geliştirilmiştir. Model, çeşitli veri manipülasyonları (parlaklık değişimi, renk sabitleme) ile test edilerek dayanıklılığı analiz edilmiş, sonuçlar başarı oranlarıyla raporlanmıştır.
