@@ -27,8 +27,8 @@
 
 ## 📌 Öne Çıkan Projelerim
 
-🏢 **[AI-Destekli-Ogrenci-Analiz-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Ogrenci-Analiz-Sistemi)**
-- **Detay:** Bu proje, okullara yönelik tasarlanmış modern bir Yüz Tanıma ve Duygu Analizi Masaüstü Uygulamasıdır. Python tabanlı bu sistem, gelişmiş yapay zeka modellerini(InsightFace, DeepFace, TensorFlow, OpenCV) kullanarak öğrenci kayıt, tanıma ve duygu analizi süreçlerini otomatikleştirmeyi amaçlamaktadır.
+🏫 **[EduVision-AI-Destekli-Ogrenci-Analiz-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Ogrenci-Analiz-Sistemi)**
+- **Detay:** Python tabanlı bu masaüstü uygulamada RetinaFace ile yüz tespiti, InsightFace ile tanıma ve DeepFace ile duygu analizi(7 temel duygu) gerçekleştiriyorum. FastAPI ile servis yapısı kurup projeyi bulut ortamına dağıttım. MSSQL veritabanı desteği, otomatik kalite analizi ve Tkinter tabanlı kullanıcı arayüzü, gerçek zamanlı loglar ve sezgisel menü yapısıyla desteklenmiştir.
 
 💵 **[FinAlert-AI-Entegre-Finans-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Web-Finans-Sistemi)**  
 - **Detay:** Günlük finans piyasalarını takip etmek artık çok kolay! Döviz, altın ve borsa verilerini AI destekli özetlerle e-postanızda alın. Geliştirilmiş tip güvenliği, ölçeklenebilirlik ve sürdürülebilirlik için TypeScript ve React kullanılarak geliştirilmiştir.
@@ -46,7 +46,7 @@
 - **Detay:** Bu çalışma kapsamında, klinik teşhis süreçlerini desteklemek amacıyla çok modlu (multimodal) bir hastalık tahmin sistemi geliştirilmiştir. Model, 15 farklı patolojiyi aynı anda tespit edebilen bir CNN yapısı üzerine kurulmuş olup, 30.000'in üzerinde hastadan elde edilen 112.120 göğüs röntgeni ve ilgili demografik bilgiler (yaş, cinsiyet, görüntü pozisyonu) kullanılarak eğitilmiştir. Görüntü verileri CNN tabanlı encoder ile işlenirken, demografik özellikler ayrı bir katmanda modellenmiş ve iki modalite Attention Fusion mekanizması ile birleştirilmiştir.
 
 💻 **[Veri Kovanı: Türkçe Yapay Veri Üretimi ve Kurumsal Veri Paylaşım Sistemi (TÜBİTAK 2209-A Proje Başvurusu)](https://github.com/mustafaatakli/veri-kovani)**
-- **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini kapsayan bir platform olarak geliştirilmektedir.
+- **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini farklı modeller üzerinde deneyimleyip optimum sonuçlarla amaca ulaşmayı hedefleyen bir platform olarak geliştirilmektedir.
 
 ---
 
