@@ -28,7 +28,7 @@
 ## 📌 Öne Çıkan Projelerim
 
 🏫 **[EduVision-AI-Destekli-Ogrenci-Analiz-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Ogrenci-Analiz-Sistemi)**
-- **Detay:** Python tabanlı bu masaüstü uygulamada RetinaFace ile yüz tespiti, InsightFace ile tanıma ve DeepFace ile duygu analizi(7 temel duygu) gerçekleştiriyorum. FastAPI ile servis yapısı kurup projeyi bulut ortamına dağıttım. MSSQL veritabanı desteği, otomatik kalite analizi ve Tkinter tabanlı kullanıcı arayüzü, gerçek zamanlı loglar ve sezgisel menü yapısıyla desteklenmiştir.
+- **Detay:** Okullar için geliştirmiş olduğum bu projede, öğrenci tanıma ve duygu analiz süreçlerini otomatikleştirerek yönetimi kolaylaştırmayı hedefledim. Python tabanlı bu masaüstü uygulamada RetinaFace ile yüz tespiti, InsightFace ile tanıma ve DeepFace ile duygu analizi(7 temel duygu) gerçekleştiriyorum. FastAPI ile servis yapısı kurup projeyi bulut ortamına dağıttım. MSSQL veritabanı desteği, otomatik kalite analizi ve Tkinter tabanlı kullanıcı arayüzü, gerçek zamanlı loglar ve sezgisel menü yapısıyla desteklenmiştir.
 
 💵 **[FinAlert-AI-Entegre-Finans-Sistemi](https://github.com/mustafaatakli/AI-Destekli-Web-Finans-Sistemi)**  
 - **Detay:** Finalert, altın, döviz ve borsa verilerini güvenilir kaynaklardan alıp yapay zekâ ile özetleyerek, kullanıcıya seçtiği saatte e-posta gönderen bir finans bilgilendirme sistemidir. Ayrıca anlık piyasa analizi, fiyat alarmı, portföy takibi ve kâr-zarar hesaplama gibi özelliklere sahip bir Telegram botu da içermektedir. Sistem, yatırımcılara hızlı ve öz bilgi sunmayı amaçlamaktadır.
