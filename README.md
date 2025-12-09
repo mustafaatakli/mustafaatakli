@@ -54,6 +54,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://mustafaatakli.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-atakl%C4%B1-26592225b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](atakliim20@gmail.com)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=mustafaatakli&color=blueviolet&style=for-the-badge&label=Profil+Görüntülenme)
 
 ---
