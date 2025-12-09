@@ -45,7 +45,7 @@
 💊 **[Göğüs Hastalıkları Tahmini Karar Destek Sistemi](https://github.com/mustafaatakli/gogus-hastaliklari-tahmini-kds)**
 - **Detay:** Bu çalışma kapsamında, klinik teşhis süreçlerini desteklemek amacıyla çok modlu (multimodal) bir hastalık tahmin sistemi geliştirilmiştir. Model, 15 farklı patolojiyi aynı anda tespit edebilen bir CNN yapısı üzerine kurulmuş olup, 30.000'in üzerinde hastadan elde edilen 112.120 göğüs röntgeni ve ilgili demografik bilgiler (yaş, cinsiyet, görüntü pozisyonu) kullanılarak eğitilmiştir. Görüntü verileri CNN tabanlı encoder ile işlenirken, demografik özellikler ayrı bir katmanda modellenmiş ve iki modalite Attention Fusion mekanizması ile birleştirilmiştir.
 
-💻 **[Veri Kovanı: Türkçe Yapay Veri Üretimi ve Kurumsal Veri Paylaşım Sistemi (TÜBİTAK 2209-A Proje Başvurusu)](https://github.com/mustafaatakli/veri-kovani)**
+💻 **[Veri Kovanı: Türkçe Yapay Veri Üretimi ve Kurumsal Veri Paylaşım Sistemi (TÜBİTAK 2209-A Proje Başvurusu)](https://github.com/mustafaatakli/Sentetik-Veri-Uretimi-NLP)**
 - **Detay:** Proje, Türkçe veri bilimi araştırmalarına katkı sağlamak ve yüksek kaliteli Türkçe veri setleri oluşturmak amacıyla otomatik veri toplama, doğrulama ve sentetik veri üretim süreçlerini farklı modeller(Gan, BERT, LSTM, mT5, Gemini, Gpt-2) üzerinde deneyimleyip optimum sonuçlarla amaca ulaşmayı hedefleyen bir platform olarak geliştirilmektedir.
 
 ---
