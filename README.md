@@ -37,7 +37,7 @@
 
 🚗 **[Araba Yedek Parça E-Ticaret Sistemi](https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem)**
 - **Detay:** Bu proje, kullanıcıların araba yedek parçalarını kolayca bulup sipariş verebileceği bir e-ticaret platformudur. Müşteri ve yönetici olmak üzere iki farklı kullanıcı rolü bulunmaktadır. Rol tabanlı yetkilendirme ile her kullanıcı kendi görevlerine uygun işlemleri gerçekleştirebilir. Sistem, kapıda ödeme, gerçek zamanlı stok takibi ve sipariş yönetimi gibi temel e-ticaret özelliklerini desteklemektedir. Proje; backend olarak, ASP.NET Core (C#), frontend olarak React ve SQL Server teknolojileriyle geliştirilmiştir.
-- 
+
 💊 **[Göğüs Hastalıkları Tahmini Karar Destek Sistemi](https://github.com/mustafaatakli/ChestAI-Gogus-Hastaliklari-Teshisinde-Derin-Ogrenme-Tabanli-Karar-Destek-Sistemi-)**
 - **Detay:** Bu çalışma kapsamında, klinik teşhis süreçlerini desteklemek amacıyla çok modlu (multimodal) bir hastalık tahmin sistemi geliştirilmiştir. Model, 15 farklı patolojiyi aynı anda tespit edebilen bir CNN yapısı üzerine kurulmuş olup, 30.000'in üzerinde hastadan elde edilen 112.120 göğüs röntgeni ve ilgili demografik bilgiler (yaş, cinsiyet, görüntü pozisyonu) kullanılarak eğitilmiştir. Görüntü verileri CNN tabanlı encoder ile işlenirken, demografik özellikler ayrı bir katmanda modellenmiş ve iki modalite Attention Fusion mekanizması ile birleştirilmiştir.
 
@@ -49,7 +49,7 @@
 ## 🌐 Bağlantılarım
 
 [![Portfolio](https://img.shields.io/badge/Portfolyo-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://mustafaatakli.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mustafaatakli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafaatakli)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=mustafaatakli&color=blueviolet&style=for-the-badge&label=Profil+Görüntülenme)
 
 ---
