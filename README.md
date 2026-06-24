@@ -10,9 +10,18 @@
 
 ## 🙋‍♂️ Hakkımda
 
-- 🎓 Bilişim Sistemleri Mühendisliği 4. sınıf öğrencisiyim.
-- 🧠 Backend ve Derin Öğrenme teknolojilerine derin bir ilgi duyuyor; NLP ve RAG mimarilerine odaklanıyorum. Python ekosisteminde, ölçeklenebilir backend servisleri ile yapay zeka modellerini entegre eden uçtan uca çözümler geliştiriyorum. Generative AI ve LLM gibi güncel teknolojileri RAG teknikleriyle birleştirerek, alanımda yenilikçi ve veriye dayalı akıllı uygulamalar tasarlamaya özen gösteren bir yazılım geliştiriciyim.
-- 💻 Deneyim sahibi olduğum teknolojiler: `Python`, `ASP.NET Core`, `C#`, `Makine Öğrenmesi`, `Derin Öğrenem`, `Bilgisayarlı Görü`, `Veri Analizi`, `Fast API`, `REST API`
+- 🎓 Bilişim Sistemleri Mühendisi olarak, akademik çalışmalarım ve saha süreçlerimle edindiğim disiplinlerarası tecrübeyi teknolojik problemlere yenilikçi çözümler sunmak için kullanıyorum.
+- 🧠 Odak Alanlarım: Backend, Full-Stack Geliştirme ve Yapay Zeka Sistemleri (RAG, Görüntü İşleme, NLP).
+- 🚀 Ne Yapıyorum? Elektronik sistemler konusundaki teknik temelimi yazılımın gücüyle harmanlayarak fiziksel dünyadaki veriyi dijital platformlara taşıyorum. Enerji ve teknoloji alanlarında güvenilir, ölçeklenebilir ve uçtan uca canlı ortama hazır akıllı sistemler geliştiriyorum.
+- 🔬 Akademik & Yayınlar: Kodlamanın ötesine geçerek veri bilimi ve yapay zeka alanında uluslararası düzeyde bilimsel yayınlar (4+ makale) üretiyorum.
+- 🌐 Portfolyo: Detaylı projelerim ve AI destekli asistanım için mustafaatakli.dev adresine göz atabilirsiniz.
+
+💻 Teknik Yetkinliklerim
+Programlama Dilleri: `Python`, `C#/.NET`, `JavaScript`, `SQL`, `Dart`, `HTML/CSS`
+Yapay Zeka & Veri Bilimi: `RAG / Agentic RAG (LangChain, LangGraph)`, `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `OpenCV`, `Seaborn`, `SPSS`, `Orange`
+Web & Uygulama Geliştirme: `FastAPI`, `ASP.NET MVC`, `REST API`, `SignalR`, `React`, `Flutter`, `Web Scraping (Selenium, BeautifulSoup)`
+Veritabanı & Backend Altyapısı: `PostgreSQL`, `MSSQL`, `MySQL`, `Redis`, `Apache Kafka`, `Celery`, `Firebase`
+DevOps, Bulut & Mimari: `Docker`, `Azure`, `Cloudflare`, `Git`, `n8n`, `ERP & CRM Sistem Mimarileri`, `Kurumsal Veri Entegrasyonu`
 
 ---
 
