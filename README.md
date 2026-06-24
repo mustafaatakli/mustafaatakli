@@ -17,11 +17,11 @@
 - 🌐 Portfolyo: Detaylı projelerim ve AI destekli asistanım için mustafaatakli.dev adresine göz atabilirsiniz.
 
 💻 Teknik Yetkinliklerim
-Programlama Dilleri: `Python`, `C#/.NET`, `JavaScript`, `SQL`, `Dart`, `HTML/CSS`
-Yapay Zeka & Veri Bilimi: `RAG / Agentic RAG (LangChain, LangGraph)`, `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `OpenCV`, `Seaborn`, `SPSS`, `Orange`
-Web & Uygulama Geliştirme: `FastAPI`, `ASP.NET MVC`, `REST API`, `SignalR`, `React`, `Flutter`, `Web Scraping (Selenium, BeautifulSoup)`
-Veritabanı & Backend Altyapısı: `PostgreSQL`, `MSSQL`, `MySQL`, `Redis`, `Apache Kafka`, `Celery`, `Firebase`
-DevOps, Bulut & Mimari: `Docker`, `Azure`, `Cloudflare`, `Git`, `n8n`, `ERP & CRM Sistem Mimarileri`, `Kurumsal Veri Entegrasyonu`
+- Programlama Dilleri: `Python`, `C#/.NET`, `JavaScript`, `SQL`, `Dart`, `HTML/CSS`
+- Yapay Zeka & Veri Bilimi: `RAG / Agentic RAG (LangChain, LangGraph)`, `TensorFlow`, `Scikit-learn`, `Pandas`, `NumPy`, `OpenCV`, `Seaborn`, `SPSS`, `Orange`
+- Web & Uygulama Geliştirme: `FastAPI`, `ASP.NET MVC`, `REST API`, `SignalR`, `React`, `Flutter`, `Web Scraping (Selenium, BeautifulSoup)`
+- Veritabanı & Backend Altyapısı: `PostgreSQL`, `MSSQL`, `MySQL`, `Redis`, `Apache Kafka`, `Celery`, `Firebase`
+- DevOps, Bulut & Mimari: `Docker`, `Azure`, `Cloudflare`, `Git`, `n8n`, `ERP & CRM Sistem Mimarileri`, `Kurumsal Veri Entegrasyonu`
 
 ---
 
